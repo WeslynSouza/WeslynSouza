@@ -7,9 +7,12 @@ Bem vindo ao meu perfil!
 
 Estudando de desenvolvimento web, com 1 ano e meio de experiencia em Front-end e 6 meses de experiencia em Back-end. Cursando Analise e desenvolvimento de sistemas.
 
-- :computer: **Tecnologias**: HTML, CSS, JS, React, Node.js, sqlite3.
-- :hammer: **Ferramentas**: Visual Studio Code, GitHub, Figma.
-- :book: **Formação**: Técnico em informatica(ensino médio tecnico - Flama), Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
+- :computer: **Tecnologias** : HTML, CSS, JS, React e sqlite3.
+- 🌱 **Estudando** : Angular e Node.js.
+- :hammer: **Ferramentas** : Visual Studio Code, GitHub, Figma.
+- :book: **Formação** : Técnico em informatica(ensino médio tecnico - Flama), Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
+- 📫 **Contato** : Meu email é wesley.i476@gmail.com.
+
 
 <!--
 **WeslynSouza/WeslynSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
