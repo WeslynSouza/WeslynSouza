@@ -5,13 +5,13 @@ Bem vindo ao meu perfil!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-de-souza-851271161/)](https://www.linkedin.com/in/wesley-de-souza-851271161/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.i476@gmail.com)](mailto:wesley.i476@gmail.com)
 
-Estudando de desenvolvimento web, com 1 ano e meio de experiencia em Front-end e 6 meses de experiencia em Back-end. Cursando Analise e desenvolvimento de sistemas.
+Studying web development, with 2 years of experience in Front-end and 6 months of experience in Back-end. Studying Analysis and systems development.
 
-- :computer: **Tecnologias** : HTML, CSS, JS, React e sqlite3.
-- 🌱 **Estudando** : Angular e Node.js.
-- :hammer: **Ferramentas** : Visual Studio Code, GitHub, Figma.
-- :book: **Formação** : Técnico em informatica(ensino médio tecnico - Flama), Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
-- 📫 **Contato** : Meu email é wesley.i476@gmail.com.
+- :computer: **Languages** : HTML, CSS, JS, React and sqlite3.
+- 🌱 **Learning** : Angular and Node.js.
+- :hammer: **Tools** : Visual Studio Code, GitHub and Figma.
+- :book: **Education** : Técnico em informatica(ensino médio tecnico - Flama), Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
+- 📫 **Contact** : Meu email é wesley.i476@gmail.com.
 
 
 <!--
