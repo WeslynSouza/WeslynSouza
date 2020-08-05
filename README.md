@@ -10,8 +10,8 @@ Studying web development, with 2 years of experience in Front-end and 6 months o
 - :computer: **Languages** : HTML, CSS, JS, React and sqlite3.
 - 🌱 **Learning** : Angular and Node.js.
 - :hammer: **Tools** : Visual Studio Code, GitHub and Figma.
-- :book: **Education** : Técnico em informatica(ensino médio tecnico - Flama), Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
-- 📫 **Contact** : Meu email é wesley.i476@gmail.com.
+- :book: **Education** : Computer technician (technical high school - Flama), Studying Analysis and systems development (UVA - RJ)
+- 📫 **Contact** : My email is wesley.i476@gmail.com.
 
 
 <!--
