@@ -5,9 +5,11 @@ Bem vindo ao meu perfil!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-de-souza-851271161/)](https://www.linkedin.com/in/wesley-de-souza-851271161/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.i476@gmail.com)](mailto:wesley.i476@gmail.com)
 
-Estudando de desenvolvimento web, com 1 ano e meio de experiencia em Front-end e 6 meses de experiencia em Back-end. Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
+Estudando de desenvolvimento web, com 1 ano e meio de experiencia em Front-end e 6 meses de experiencia em Back-end. Cursando Analise e desenvolvimento de sistemas.
 
 - :computer: **Tecnologias**: HTML, CSS, JS, React, Node.js, sqlite3.
+- :hammer: **Ferramentas**: Visual Studio Code, GitHub, Figma.
+- :book: **Formação**: Técnico em informatica(ensino médio tecnico - Flama), Cursando Analise e desenvolvimento de sistemas(UVA - RJ).
 
 <!--
 **WeslynSouza/WeslynSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
