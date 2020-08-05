@@ -1,4 +1,6 @@
-### Hi there 👋
+#Wesley de Souza 
+
+## Hi there 👋
 
 Welcome to my profile!
 
@@ -9,6 +11,7 @@ Studying web development, with 2 years of experience in Front-end and 6 months o
 
 - :computer: **Languages** : HTML, CSS, JS, React and sqlite3.
 - 🌱 **Learning** : Angular and Node.js.
+- 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
 - :hammer: **Tools** : Visual Studio Code, GitHub and Figma.
 - :book: **Education** : Computer technician (technical high school - Flama), Studying Analysis and systems development (UVA - RJ)
 - 📫 **Contact** : My email is wesley.i476@gmail.com.
