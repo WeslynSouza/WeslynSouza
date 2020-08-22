@@ -9,8 +9,8 @@ Welcome to my profile!
 
 Studying web development, with 1 year of experience in Front-end and 6 months of experience in Back-end. Studying Analysis and systems development.
 
-- :computer: **Languages** : HTML, CSS, JS, React and sqlite3.
-- 🌱 **Learning** : Angular and Node.js.
+- :computer: **Languages** : HTML, CSS, JS, React, Redux and sqlite3.
+- 🌱 **Learning** : Angular, ReactNative and Node.js.
 - 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
 - :hammer: **Tools** : Visual Studio Code, GitHub and Figma.
 - :book: **Education** : Computer technician (technical high school - Flama), Studying Analysis and systems development (UVA - RJ)
