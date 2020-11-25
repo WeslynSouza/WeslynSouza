@@ -10,9 +10,9 @@ Welcome to my profile!
 Studying web development, with 1 year of experience in Front-end and 6 months of experience in Back-end. Studying Analysis and systems development.
 
 - :computer: **Languages** : HTML, CSS, JS, React, Redux and sqlite3.
-- 🌱 **Learning** : Angular, ReactNative, Adobe XD and Node.js.
+- 🌱 **Learning** : .NET/C#, Adobe XD and Node.js.
 - 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
-- :hammer: **Tools** : Visual Studio Code, GitHub and Figma.
+- :hammer: **Tools** : Visual Studio Code, GitHub, Figma and AdobeXd.
 - :book: **Education** : Computer technician (technical high school - Flama), Studying Analysis and systems development (UVA - RJ)
 - 📫 **Contact** : My email is wesley.i476@gmail.com.
 
