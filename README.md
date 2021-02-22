@@ -15,7 +15,7 @@ Studying web development, with 2 years of experience in Front-end and 1 year of 
 - :hammer: **Tools** : Visual Studio Code, GitHub, Figma and AdobeXd.
 - :book: **Education** : Studying Analysis and systems development (UVA - RJ), Computer technician (technical high school - Flama).
 - 📫 **Contact** : My email is wesley.i476@gmail.com.
-- - 😄 Pronouns: He/His.
+- 😄 Pronouns: He/His.
 
 <!--
 **WeslynSouza/WeslynSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
