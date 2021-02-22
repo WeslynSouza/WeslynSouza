@@ -9,7 +9,7 @@ Welcome to my profile!
 
 Studying web development, with 1 year of experience in Front-end and 6 months of experience in Back-end. Studying Analysis and systems development.
 
-https://github-readme-stats.vercel.app/api?username=weslynsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
 
 - :computer: **Languages** : HTML, CSS, SASS, JS, TS, React, Webpack and sqlite3.
 - 🌱 **Learning** : Angular, Vue, .NET/C#, Adobe XD and Node.js.
