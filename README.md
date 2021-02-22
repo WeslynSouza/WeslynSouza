@@ -7,7 +7,7 @@ Welcome to my profile!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-de-souza-851271161/)](https://www.linkedin.com/in/wesley-de-souza-851271161/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.i476@gmail.com)](mailto:wesley.i476@gmail.com)
 
-Studying web development, with 1 year of experience in Front-end and 6 months of experience in Back-end. Studying Analysis and systems development.
+Studying web development, with 2 years of experience in Front-end and 1 year of experience in Back-end. Studying Analysis and systems development.
 
 <img src="https://github-readme-stats.vercel.app/api?username=weslynsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
