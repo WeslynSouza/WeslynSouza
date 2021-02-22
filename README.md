@@ -9,15 +9,13 @@ Welcome to my profile!
 
 Studying web development, with 2 years of experience in Front-end and 1 year of experience in Back-end. Studying Analysis and systems development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=weslynsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
 - :computer: **Languages** : HTML, CSS, SASS, JS, TS, React, Webpack and sqlite3.
 - 🌱 **Learning** : Angular, Vue, .NET/C#, Adobe XD and Node.js.
 - 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
 - :hammer: **Tools** : Visual Studio Code, GitHub, Figma and AdobeXd.
-- :book: **Education** : Computer technician (technical high school - Flama), Studying Analysis and systems development (UVA - RJ)
+- :book: **Education** : Studying Analysis and systems development (UVA - RJ), Computer technician (technical high school - Flama).
 - 📫 **Contact** : My email is wesley.i476@gmail.com.
-
+- - 😄 Pronouns: He/His.
 
 <!--
 **WeslynSouza/WeslynSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=weslynsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
